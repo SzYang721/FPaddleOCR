@@ -1,9 +1,0 @@
-{"type": "text", "bbox": [108, 238, 452, 256], "res": "", "img_idx": 14, "score": 0.7534992694854736}
-{"type": "text", "bbox": [604, 238, 954, 256], "res": "", "img_idx": 14, "score": 0.6502137780189514}
-{"type": "figure", "bbox": [88, 754, 1091, 1521], "res": "", "img_idx": 14, "score": 0.9068173170089722}
-{"type": "figure", "bbox": [96, 272, 1063, 637], "res": "", "img_idx": 14, "score": 0.6683254241943359}
-{"type": "table_caption", "bbox": [118, 740, 324, 759], "res": "", "img_idx": 14, "score": 0.6431965231895447}
-{"type": "header", "bbox": [213, 111, 330, 168], "res": "", "img_idx": 14, "score": 0.947746753692627}
-{"type": "footer", "bbox": [449, 1563, 739, 1579], "res": "", "img_idx": 14, "score": 0.6714151501655579}
-{"type": "footer", "bbox": [586, 1589, 604, 1603], "res": "", "img_idx": 14, "score": 0.605758786201477}
-{"type": "reference", "bbox": [106, 654, 316, 669], "res": "", "img_idx": 14, "score": 0.5663155913352966}

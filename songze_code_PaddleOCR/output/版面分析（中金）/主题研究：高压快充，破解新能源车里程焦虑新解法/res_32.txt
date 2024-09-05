@@ -1,5 +1,0 @@
-{"type": "table", "bbox": [86, 229, 953, 1323], "res": "", "img_idx": 32, "score": 0.9551486968994141}
-{"type": "table_caption", "bbox": [267, 206, 703, 225], "res": "", "img_idx": 32, "score": 0.6097494959831238}
-{"type": "header", "bbox": [213, 112, 330, 168], "res": "", "img_idx": 32, "score": 0.9622913002967834}
-{"type": "footer", "bbox": [450, 1563, 738, 1579], "res": "", "img_idx": 32, "score": 0.8365399241447449}
-{"type": "footer", "bbox": [585, 1589, 604, 1603], "res": "", "img_idx": 32, "score": 0.6715139150619507}
