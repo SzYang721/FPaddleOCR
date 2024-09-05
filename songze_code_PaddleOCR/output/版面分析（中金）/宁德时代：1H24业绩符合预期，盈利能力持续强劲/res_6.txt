@@ -1,0 +1,3 @@
+{"type": "title", "bbox": [547, 274, 631, 316], "res": "", "img_idx": 6, "score": 0.959299623966217}
+{"type": "header", "bbox": [577, 81, 696, 140], "res": "", "img_idx": 6, "score": 0.9568923115730286}
+{"type": "reference", "bbox": [82, 335, 1105, 1066], "res": "", "img_idx": 6, "score": 0.985554575920105}

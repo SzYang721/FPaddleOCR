@@ -1,0 +1,4 @@
+{"type": "title", "bbox": [84, 558, 173, 572], "res": "", "img_idx": 5, "score": 0.9440006613731384}
+{"type": "title", "bbox": [84, 659, 174, 673], "res": "", "img_idx": 5, "score": 0.8703509569168091}
+{"type": "header", "bbox": [578, 110, 699, 171], "res": "", "img_idx": 5, "score": 0.9542698264122009}
+{"type": "reference", "bbox": [83, 293, 1105, 552], "res": "", "img_idx": 5, "score": 0.608919620513916}

@@ -1,0 +1,5 @@
+{"type": "figure", "bbox": [262, 235, 1023, 1147], "res": "", "img_idx": 18, "score": 0.8147472739219666}
+{"type": "table_caption", "bbox": [299, 206, 734, 225], "res": "", "img_idx": 18, "score": 0.7761483192443848}
+{"type": "header", "bbox": [213, 111, 330, 168], "res": "", "img_idx": 18, "score": 0.9696698188781738}
+{"type": "footer", "bbox": [450, 1563, 738, 1579], "res": "", "img_idx": 18, "score": 0.7574049234390259}
+{"type": "reference", "bbox": [299, 1165, 681, 1180], "res": "", "img_idx": 18, "score": 0.6753312349319458}

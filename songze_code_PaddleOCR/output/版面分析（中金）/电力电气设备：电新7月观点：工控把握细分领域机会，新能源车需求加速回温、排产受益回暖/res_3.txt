@@ -1,0 +1,6 @@
+{"type": "text", "bbox": [298, 306, 517, 328], "res": "", "img_idx": 3, "score": 0.7593639492988586}
+{"type": "title", "bbox": [298, 202, 610, 230], "res": "", "img_idx": 3, "score": 0.6376512050628662}
+{"type": "figure", "bbox": [95, 478, 1036, 825], "res": "", "img_idx": 3, "score": 0.5962115526199341}
+{"type": "figure_caption", "bbox": [604, 842, 827, 877], "res": "", "img_idx": 3, "score": 0.6142369508743286}
+{"type": "header", "bbox": [212, 111, 330, 168], "res": "", "img_idx": 3, "score": 0.9387324452400208}
+{"type": "footer", "bbox": [450, 1563, 738, 1579], "res": "", "img_idx": 3, "score": 0.732596755027771}
